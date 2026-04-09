@@ -1,16 +1,6 @@
-# Candidate Dependencies
-# Add your required packages here
-
-# Web interface (required - you may use alternatives)
-gradio>=4.0.0
-
-# Video processing (suggested)
-# opencv-python>=4.8.0
-# Pillow>=10.0.0
-
-# ML frameworks (choose based on your approach)
-# torch>=2.0.0
-# transformers>=4.30.0
-# sentence-transformers>=2.2.0
-
-# Add any additional dependencies your solution requires
+torch
+open_clip_torch
+opencv-python
+numpy
+pillow
+gradio
